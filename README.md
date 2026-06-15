@@ -1,4 +1,4 @@
-# Real Time Image Animation Using Deep Learning
+# Real Time Image Animation
 
 ## Overview
 
